@@ -1,0 +1,6 @@
+environs~=9.5.0
+pywebio~=1.8.2
+aiogram~=2.25.1
+requests~=2.30.0
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
